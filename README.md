@@ -1,32 +1,42 @@
 # Hola, soy Luz Iara Ghezzi
 
-Estudiante avanzada de la Tecnicatura Superior en Análisis de Sistemas de Informática.
+Estudiante avanzada de la **Tecnicatura Superior en Análisis de Sistemas de Informática** en el Instituto Cristo Obrero.
 
-Me interesa especialmente el desarrollo web, el análisis funcional, las bases de datos y la gestión de sistemas.
+Me interesa especialmente el **análisis de sistemas, análisis funcional, desarrollo web, SQL, bases de datos y sistemas y procesos**.
 
 ## Tecnologías
 
-- PHP
-- HTML5
-- CSS3
-- JavaScript
-- MySQL
-- SQL
-- Bootstrap
-- C / C++
-- WordPress
-- GitHub
+* PHP
+* SQL
+* MySQL
+* HTML5
+* CSS3
+* JavaScript
+* C/C++
+* Bootstrap
+* AJAX
+* MVC
+  
 
-## Proyecto destacado
+## Proyecto principal
 
 ### BlackLight Propiedades
 
-Sistema web inmobiliario desarrollado individualmente con PHP y MySQL.
+Proyecto académico individual de una aplicación web para gestión inmobiliaria, desarrollada con PHP y MySQL.
 
-Incluye autenticación, ABM de propiedades, búsquedas y filtros, gestión de consultas, panel administrativo, base de datos relacional y diferentes medidas de seguridad.
+Incluye área pública y panel administrativo, autenticación, gestión de sesiones, ABM, búsquedas y filtros, gestión de consultas, base de datos relacional y diferentes medidas de seguridad.
+
+**Tecnologías principales:** PHP · MySQL · SQL · HTML5 · CSS3 · JavaScript · Bootstrap · PDO · MVC
+
+## Formación
+
+**Tecnicatura Superior en Análisis de Sistemas de Informática**
+Instituto Cristo Obrero
+2023 – En curso · Finalización estimada: 2027
 
 ## Actualmente
 
-- Finalizando la Tecnicatura Superior en Análisis de Sistemas.
-- Desarrollando proyectos personales y académicos.
-- Ampliando conocimientos en desarrollo web, bases de datos y análisis funcional.
+* Desarrollando proyectos académicos y personales.
+* Profundizando conocimientos en desarrollo web, SQL y bases de datos.
+* Fortaleciendo conocimientos de análisis de sistemas y procesos.
+* Incorporando nuevas herramientas mediante proyectos prácticos.
